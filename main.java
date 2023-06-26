@@ -133,11 +133,6 @@ public class Main {
         writer.close();
     }
 
-//     private static List<Variant> readVariantsFromFile(String inputFile) throws IOException {
-//         // Implement your logic to read variants from the input file
-//         // and return a list of Variant objects
-//         return null;
-//     }
   
     private static List<Variant> readVariantsFromFile(String inputFile) {
           List<Variant> variants = new ArrayList<>();
