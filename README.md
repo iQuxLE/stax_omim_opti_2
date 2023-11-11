@@ -9,7 +9,7 @@ This data is extracted from a XML file using a parsing script. The purpose of th
 
 ### Input Data
 
-The input file used for parsing the variants is `input_file.txt`. It contains the following variants:
+The input file used for parsing the variants is `input_file.txt`. It contains the following variants
 
 | chr | start   | alleleID | Ref. | Alt.     |
 | --- | ------- | -------- | ---- | -------- |
